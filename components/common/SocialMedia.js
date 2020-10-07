@@ -14,7 +14,7 @@ const imagesInfo = [
     translateRatio: 0
   },
   {
-    image: '/images/insta/4.jpg',
+    image: '/images/insta/4.jpg',     
     translateRatio: -20
   },
   {
